@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.manishsubedi.tech/](https://www.manishsubedi.tech/)
 
-- 💬 Ask me about [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0E75B6&width=250&lines=Python+(Django);FastAPI;React;AI%2FML)](https://git.io/typing-svg)
+- 💬 Ask me about PYTHON
 
 - 📫 How to reach me **subedimanish55@gmail.com**
 
