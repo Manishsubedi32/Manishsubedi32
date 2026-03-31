@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadliesthunter&label=Profile%20views&color=0e75b6&style=flat" alt="deadliesthunter" /> </p>
 
-- 🌱 I’m currently learning **AI/ML(data science)**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86C1&vCenter=true&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+about+ML+integration" alt="Typing Animation" />
+</a>
 
 - 👨‍💻 All of my projects are available at [https://www.manishsubedi.tech/](https://www.manishsubedi.tech/)
 
